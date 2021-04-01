@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri May 17 2019
-@author: YangYang
-
 请确保你在运行这个代码的时候，已经安装了pdfplumber库
 如果没有安装，请在[附件-命令提示符]下输入：
 pip install pdfplumber
